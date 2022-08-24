@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">WELCOME</h2>
+<h2 align="center">WELCOME TO MY PROFILE!</h2>
 
 -   ETEC MCM
 -   T.I
