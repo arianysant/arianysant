@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">:skull:WELCOME:skull:</h2>
+<h2 align="center">WELCOME</h2>
 
 -   ETEC MCM
 -   T.I
