@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img width="70%" src="https://github.com/arianysant/ariany/blob/main/giphy.gif">
+  <img width="70%" src="https://github.com/arianysant/arianysant/blob/main/gif.gif">
 </div>
 
 <br>
