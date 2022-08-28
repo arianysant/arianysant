@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">WELCOME TO MY PROFILE!</h2>
+<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
 
--   ETEC MCM
--   T.I
--   @ari_anysant
+😄-   ETEC MCM
+💬-   T.I
+📫-   @ari_anysant
 
 <br>
 <div align="center">
