@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
+<h1 align="center"> MY NAME IS ARIANY ANDRADE! </h1>
 
 
-😄-   ETEC MCM
-💬-   T.I
-📫-   @ari_anysant
+😄-  Estudando na ETEC MCM
+💬-  Cursando T.I
+📫-  @ari_anysant
 
 <br>
 <div align="center">
