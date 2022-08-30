@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center"> MY NAME IS ARIANY ANDRADE! </h1>
 
 
-😄-  Estudando na ETEC MCM
-💬-  Cursando T.I
-📫-  @ari_anysant
+<li>😄-  Estudando na ETEC MCM</li>
+<li>💬-  Cursando T.I</li>
+<li>📫-  @ari_anysant</li>
 
 <br>
 <div align="center">
