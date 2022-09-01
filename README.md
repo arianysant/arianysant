@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img width="50%" src="https://github.com/arianysant/arianysant/blob/main/git%20gif.gif">
+  <img width="50%" src="https://github.com/arianysant/arianysant/blob/main/the-amazing-world-of-gumball-darwin.gif">
 </div>
 
 <br>
