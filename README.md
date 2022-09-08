@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
 <h1 align="center"> MY NAME IS ARIANY ANDRADE! </h1>
+<br>
+<div align="center">
+  <img width="25%" src="https://github.com/arianysant/arianysant/blob/main/Ryu.gif">
+</div>
 
 
 <h4><li>😄-  Estudando na ETEC MCM</li></h4>
 <h4><li>💬-  Cursando T.I</li></h4>
 <h4><li>📫-  @ari_anysant</li></h4>
-
-<br>
-<div align="center">
-  <img width="25%" src="https://github.com/arianysant/arianysant/blob/main/Ryu.gif">
-</div>
 
 <br>
 <div align="center">
