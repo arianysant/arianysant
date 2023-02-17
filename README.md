@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 </div>
 
 
-![arianysant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=arianysant&hide_border=true&theme=github-light)
+<p>
+  </p>
 
 <a href="https://instagram.com/ari_anysant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "ariany2301santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
